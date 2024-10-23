@@ -72,16 +72,3 @@ These logs help identify patterns that could indicate beaconing activity.
 - **File Path Errors**: Verify file paths for `test.pcap` and `whitelist.csv` match those specified in the script or provided on the command line.
 
 
-## License
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
-
-
-
-
-## Authors
-
-- Suchit Artal [suchit.shreshtait@gmail.com]
-
-
-This README provides comprehensive instructions on using your Zeek script, capturing DNS traffic, and utilizing the whitelist for beacon detection. Let me know if you need further customization or additional details!
-
